@@ -20,6 +20,7 @@
   "homepage": "https://github.com/stnever/decktet-ui-simple#readme",
   "dependencies": {
     "browserify": "^14.5.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "decktet-utils": "stnever/decktet-utils"
   }
 }
